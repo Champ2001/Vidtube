@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![image](https://github.com/Champ2001/YoutubeClone/assets/95713320/e5a5add6-5078-47b9-856b-3313d7c69cb2)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
