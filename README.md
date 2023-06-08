@@ -2,6 +2,11 @@
 
 ![image](https://github.com/Champ2001/YoutubeClone/assets/95713320/e5a5add6-5078-47b9-856b-3313d7c69cb2)
 
+![image](https://github.com/Champ2001/YoutubeClone/assets/95713320/7b8a9c82-01b7-43de-8356-051321c9bea6)
+
+![image](https://github.com/Champ2001/YoutubeClone/assets/95713320/cfce6923-3dba-4155-b631-c1cecd2a958a)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
